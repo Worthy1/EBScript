@@ -1,0 +1,13 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\WorthySpells.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\WorthySpells.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\WorthySpells.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\bin\Release\SharpDX.XInput.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\obj\Release\WorthySpells.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\obj\Release\WorthySpells.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\WorthySpells\WorthySpells\obj\Release\WorthySpells.pdb
