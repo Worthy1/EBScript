@@ -1,0 +1,12 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\Fiddlesticks.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\obj\Debug\Fiddlesticks.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\Fiddlesticks.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\Fiddlesticks.pdb
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\obj\Debug\Fiddlesticks.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\Fiddlesticks\Fiddlesticks\obj\Debug\Fiddlesticks.pdb
